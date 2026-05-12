@@ -1,0 +1,15 @@
+A ENVOYER SUR GITHUB PAGES
+
+Envoyez les fichiers qui sont DANS ce dossier a la racine du depot GitHub :
+- index.html
+- 404.html
+- .nojekyll
+- le dossier assets
+
+Dans GitHub > Settings > Pages :
+- Source : Deploy from a branch
+- Branch : main
+- Folder : / root
+
+Important : ne publiez pas le dossier src, github-ready, github-pages-dist ou A_METTRE_SUR_GITHUB lui-meme.
+Il faut publier son contenu.
